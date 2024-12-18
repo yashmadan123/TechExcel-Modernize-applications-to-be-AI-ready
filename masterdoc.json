@@ -1,36 +1,48 @@
 [
     {
-      "Name": "Fabric - Analyst in a day",
+      "Name": "TechExcel-Modernize-applications-to-be-AI-ready",
       "Language": "English",
-      "BaseURL": "https://github.com/CloudLabsAI-Azure/Fabric-Analytics-in-aday/tree/V3-December-2024",
+      "BaseURL": "https://github.com/CloudLabsAI-Azure/TechExcel-Modernize-applications-to-be-AI-ready/tree/main",
       "Files": [        
         {
-          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Fabric-Analytics-in-aday/V3-December-2024/english/lab-guide/lab1.md",
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/TechExcel-Modernize-applications-to-be-AI-ready/main/Docs/Ex01/0101.md",
           "Order": 1 
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Fabric-Analytics-in-aday/V3-December-2024/english/lab-guide/lab2.md",
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/TechExcel-Modernize-applications-to-be-AI-ready/main/Docs/Ex01/0102.md",
           "Order": 2
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Fabric-Analytics-in-aday/V3-December-2024/english/lab-guide/lab3.md",
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/TechExcel-Modernize-applications-to-be-AI-ready/main/Docs/Ex01/0103.md",
           "Order": 3
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Fabric-Analytics-in-aday/V3-December-2024/english/lab-guide/lab4.md",
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/TechExcel-Modernize-applications-to-be-AI-ready/main/Docs/Ex01/0104.md",
           "Order": 4
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Fabric-Analytics-in-aday/V3-December-2024/english/lab-guide/lab5.md",
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/TechExcel-Modernize-applications-to-be-AI-ready/main/Docs/Ex01/0105.md",
           "Order": 5
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Fabric-Analytics-in-aday/V3-December-2024/english/lab-guide/lab6.md",
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/TechExcel-Modernize-applications-to-be-AI-ready/main/Docs/Ex01/0106.md",
           "Order": 6
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Fabric-Analytics-in-aday/V3-December-2024/english/lab-guide/lab7.md",
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/TechExcel-Modernize-applications-to-be-AI-ready/main/Docs/Ex01/0107.md",
           "Order": 7
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/TechExcel-Modernize-applications-to-be-AI-ready/main/Docs/Ex01/0108.md",
+          "Order": 8
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/TechExcel-Modernize-applications-to-be-AI-ready/main/Docs/Ex01/0109.md",
+          "Order": 9
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/TechExcel-Modernize-applications-to-be-AI-ready/main/Docs/Ex01/0110.md",
+          "Order": 10
         }
       ]
     }
